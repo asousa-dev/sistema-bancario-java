@@ -1,0 +1,14 @@
+# IntelliJ / IDEs
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Node / extensões
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
